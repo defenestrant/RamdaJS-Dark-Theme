@@ -1,0 +1,77 @@
+
+.navbar-inverse {
+    background-color: #2b192f;
+    border-color: #693476;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #2b192f;
+    border-bottom: 1px solid #cc9fd6;
+}
+
+html.docs-page body {
+    background: #1f1f21;
+}
+
+.card {
+	background: rgb(40, 40, 41);
+	color: rgb(163, 167, 169);
+     border: 1px solid #524f52;
+    -webkit-box-shadow: 0 0 0 1px #6f6b70;
+    box-shadow: 0 0 0 0 #6f6b70;
+}
+
+code {
+    color: rgb(163, 167, 169);
+    background-color: #2d2d2d;
+}
+
+.label-category {
+    background: rgb(26, 26, 27);
+    color: rgb(133, 135, 136);
+}
+
+.sidebar {
+	background: #1f1f21;
+    border-right: 1px solid #524f52;
+}
+
+.sidebar .toc {
+ 	background: #1f1f21;
+	border-top: 1px solid #524f52;
+}
+
+.sidebar .toc a {
+	color: rgb(133, 135, 136);
+}
+
+.sidebar .toc a:hover {
+    background: #555;
+    color: rgb(163, 167, 169);
+}
+
+.form-control {
+    color: rgb(163, 167, 169);
+    background-color: rgb(40, 40, 41);
+    border: 1px solid #6f6b70;
+}
+
+p {
+    color: rgb(133, 135, 136);
+}
+
+::-webkit-scrollbar {
+    height: 12px;
+    width: 12px;
+    background: rgb(26, 26, 27);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #303033;
+}
+
+::-webkit-scrollbar-corner {
+    background: #000;
+}
+
