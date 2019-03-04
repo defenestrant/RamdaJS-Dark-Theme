@@ -57,6 +57,11 @@ code {
     border: 1px solid #6f6b70;
 }
 
+
+.form-control-feedback {
+    color: rgb(163, 167, 169);
+}
+
 p {
     color: rgb(133, 135, 136);
 }
